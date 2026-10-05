@@ -8,8 +8,8 @@ class IaRouter < Formula
 
   desc "Reparte tus tareas entre los CLIs oficiales de IA con métricas objetivas de Arena y Artificial Analysis"
   homepage "https://www.mgatc.com/recursos/ia-router/"
-  url "https://files.pythonhosted.org/packages/source/i/ia-router/ia_router-0.2.0.tar.gz"
-  sha256 "REEMPLAZAR_CON_EL_SHA256_DEL_SDIST"
+  url "https://files.pythonhosted.org/packages/94/56/bd6c857286d320f6bab108eb5d7499a4fb64051783feae67faaa8708725a/ia_router-0.2.0.tar.gz"
+  sha256 "945f0e889ec5a0e69bef0a4c77fc34984e761fd30c16e49dad64b6727fc4a733"
   license "Apache-2.0"
 
   depends_on "python@3.13"
