@@ -1,29 +1,29 @@
 # homebrew-tap
 
-Tap de Homebrew de [Mgobeaalcoba](https://github.com/Mgobeaalcoba).
+Homebrew tap by [Mgobeaalcoba](https://github.com/Mgobeaalcoba).
 
 ## ia-router
 
-Reparte tus tareas entre los CLIs oficiales de IA (`claude`, `codex`, `agy`) con métricas objetivas de Arena y Artificial Analysis.
+Routes your tasks across the official AI CLIs (`claude`, `codex`, `agy`) using objective metrics from Arena and Artificial Analysis.
 
 ```bash
 brew install Mgobeaalcoba/tap/ia-router
 ia-router --version
 ```
 
-Para actualizar: `brew upgrade ia-router`. Para desinstalar: `brew uninstall ia-router` (no borra tus datos en `~/.ia-router`).
+To update: `brew upgrade ia-router`. To uninstall: `brew uninstall ia-router` (it does not delete your data in `~/.ia-router`).
 
-¿Preferís pip? `pipx install ia-router` o `python3 -m pip install --user ia-router`.
+Prefer pip? `pipx install ia-router` or `python3 -m pip install --user ia-router`.
 
 | | |
 |---|---|
-| **Web** | [mgatc.com/recursos/ia-router](https://www.mgatc.com/recursos/ia-router/): qué es, casos de uso e instalación |
+| **Website** | [mgatc.com/en/recursos/ia-router](https://www.mgatc.com/en/recursos/ia-router/): what it is, use cases and installation (also [in Spanish](https://www.mgatc.com/recursos/ia-router/)) |
 | **PyPI** | [pypi.org/project/ia-router](https://pypi.org/project/ia-router/) |
-| **Código** | [Mgobeaalcoba/ia-suscription-router](https://github.com/Mgobeaalcoba/ia-suscription-router) |
-| **Guía de uso** | [docs/USO.md](https://github.com/Mgobeaalcoba/ia-suscription-router/blob/main/docs/USO.md) |
-| **Cambios** | [CHANGELOG.md](https://github.com/Mgobeaalcoba/ia-suscription-router/blob/main/CHANGELOG.md) |
-| **Problemas e ideas** | [Issues](https://github.com/Mgobeaalcoba/ia-suscription-router/issues) |
+| **Code** | [Mgobeaalcoba/ia-suscription-router](https://github.com/Mgobeaalcoba/ia-suscription-router) |
+| **Usage guide** | [docs/USAGE.md](https://github.com/Mgobeaalcoba/ia-suscription-router/blob/main/docs/USAGE.md) |
+| **Changes** | [CHANGELOG.md](https://github.com/Mgobeaalcoba/ia-suscription-router/blob/main/CHANGELOG.md) |
+| **Problems and ideas** | [Issues](https://github.com/Mgobeaalcoba/ia-suscription-router/issues) |
 
-Probado en macOS (debería funcionar también en Linux). Requiere Python 3.9 o superior, que Homebrew instala solo.
+Tested on macOS (it should also work on Linux). It requires Python 3.9 or higher, which Homebrew installs on its own.
 
-Licencia: Apache-2.0 (la del software). Esta fórmula acompaña a esa licencia.
+License: Apache-2.0 (the software's). This formula goes along with that license.
